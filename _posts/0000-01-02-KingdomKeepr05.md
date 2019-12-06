@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Mess with the honk and you get the bonk
 Use the left arrow to go back!
